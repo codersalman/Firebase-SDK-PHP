@@ -1,0 +1,19 @@
+{
+    "name": "codersalman/firebase-sdk-php",
+    "description": "An Firebase SDK for PHP",
+    "type": "library",
+    "require": {
+        "php": "^8.0",
+        "ext-mbstring": "*",
+        "ext-openssl": "*",
+        "ext-json": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "codersalman",
+            "email": "coder88salman@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
